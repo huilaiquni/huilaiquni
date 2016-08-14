@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ListViewInScrollView.iml" filepath="$PROJECT_DIR$/ListViewInScrollView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScrollView嵌套ListView/ScrollView嵌套ListView.iml" filepath="$PROJECT_DIR$/ScrollView嵌套ListView/ScrollView嵌套ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScrollView嵌套ListView/app.iml" filepath="$PROJECT_DIR$/ScrollView嵌套ListView/app.iml" />
+    </modules>
+  </component>
+</project>

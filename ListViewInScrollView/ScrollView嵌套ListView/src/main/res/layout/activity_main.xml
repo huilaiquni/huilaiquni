@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.huilaiquni.listviewinscrollview.MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:gravity="center"
+            android:padding="7dp"
+            android:text="回来娶你"
+            android:textColor="@color/RED"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:gravity="center"
+            android:padding="7dp"
+            android:text="回来娶你"
+            android:textColor="@color/RED"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:gravity="center"
+            android:padding="7dp"
+            android:text="回来娶你"
+            android:textColor="@color/RED"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:gravity="center"
+            android:padding="7dp"
+            android:text="回来娶你"
+            android:textColor="@color/RED"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:gravity="center"
+            android:padding="7dp"
+            android:text="回来娶你"
+            android:textColor="@color/RED"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:gravity="center"
+            android:padding="7dp"
+            android:text="回来娶你"
+            android:textColor="@color/RED"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:gravity="center"
+            android:padding="7dp"
+            android:text="回来娶你"
+            android:textColor="@color/RED"
+            android:textSize="20sp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:text="我是按钮"
+            android:textColor="@color/RED"
+            android:textSize="23sp" />
+
+        <com.huilaiquni.listviewinscrollview.ui.widget.ListViewInScrollView
+
+            android:id="@+id/listview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@color/RED"
+            android:dividerHeight="1dp">
+
+        </com.huilaiquni.listviewinscrollview.ui.widget.ListViewInScrollView>
+
+
+    </LinearLayout>
+
+
+</ScrollView>
